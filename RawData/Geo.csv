@@ -1,0 +1,143 @@
+GeoID,Customer Market,Customer Region,Customer Country
+1,LATAM,South America,Brazil
+2,LATAM,Central America,Nicaragua
+3,LATAM,Central America,Mexico
+4,LATAM,South America,Chile
+5,LATAM,Central America,Honduras
+6,LATAM,Caribbean,Dominican�Republic
+7,LATAM,Central America,Panama
+8,LATAM,South America,Argentina
+9,LATAM,South America,Colombia
+10,LATAM,Central America,El Salvador
+11,LATAM,Caribbean,Cuba
+12,LATAM,Central America,Guatemala
+13,LATAM,South America,Venezuela
+14,LATAM,South America,Per�
+15,LATAM,South America,Uruguay
+16,LATAM,Caribbean,Haiti
+17,LATAM,South America,Bolivia
+18,LATAM,Caribbean,Jamaica
+19,LATAM,South America,Ecuador
+20,LATAM,South America,Paraguay
+21,LATAM,Caribbean,Trinidad and Tobago
+22,LATAM,Central America,Costa Rica
+23,LATAM,South America,Guyana
+24,LATAM,Caribbean,Barbados
+25,LATAM,Caribbean,Martinique
+26,Europe,Western Europe,Austria
+27,Europe,Northern Europe,United Kingdom
+28,Europe,Western Europe,Germany
+29,Europe,Northern Europe,Denmark
+30,Europe,Southern Europe,Italy
+31,Europe,Western Europe,France
+32,Europe,Southern Europe,Spain
+33,Europe,Western Europe,Netherlands
+34,Europe,Western Europe,Belgium
+35,Europe,Northern Europe,Sweden
+36,Europe,Northern Europe,Norway
+37,Europe,Southern Europe,Portugal
+38,Europe,Western Europe,Switzerland
+39,Europe,Northern Europe,Finland
+40,Europe,Northern Europe,Ireland
+41,Pacific Asia,Oceania,Australia
+42,Pacific Asia,Southeast Asia,Indonesia
+43,Pacific Asia,South Asia,Pakistan
+44,Pacific Asia,South Asia,India
+45,Pacific Asia,Southeast Asia,Philippines
+46,Pacific Asia,Eastern Asia,Hong Kong
+47,Pacific Asia,Southeast Asia,Malaysia
+48,Pacific Asia,Southeast Asia,Singapore
+49,Pacific Asia,Eastern Asia,China
+50,Pacific Asia,Eastern Asia,Japan
+51,Pacific Asia,Southeast Asia,Cambodia
+52,Pacific Asia,South Asia,Sri Lanka
+53,Pacific Asia,Eastern Asia,South Korea
+54,Pacific Asia,South Asia,Bangladesh
+55,Pacific Asia,Southeast Asia,Thailand
+56,Pacific Asia,Southeast Asia,Vietnam
+57,Pacific Asia,Southeast Asia,Myanmar
+58,Pacific Asia,South Asia,Afghanistan
+59,Pacific Asia,Eastern Asia,Taiwan
+60,Pacific Asia,Oceania,Papua New Guinea
+61,Pacific Asia,Oceania,New zealand
+62,North America,South of  USA,USA
+63,North America,West of USA,USA
+64,North America,US Center,USA
+65,North America,East of USA,USA
+66,Africa,Central Africa,Cameroon
+67,Africa,North Africa,Egypt
+68,Europe,Eastern Europe,Poland
+69,Europe,Eastern Europe,Russia
+70,Europe,Eastern Europe,Ukraine
+71,Africa,North Africa,Morocco
+72,Pacific Asia,West Asia,Saudi Arabia
+73,Pacific Asia,South Asia,Iran
+74,Africa,Southern Africa,South Africa
+75,Pacific Asia,West Asia,Turkey
+76,Africa,Central Africa,Democratic Republic of Congo
+77,Europe,Eastern Europe,Romania
+78,Africa,West Africa,Nigeria
+79,Africa,North Africa,Algeria�
+80,Africa,North Africa,Tunisia
+81,Africa,West Africa,Togo
+82,Africa,North Africa,Sudan
+83,Pacific Asia,West Asia,Israel�
+84,Pacific Asia,West Asia,Iraq
+85,North America,Canada,Canada
+86,Pacific Asia,West Asia,Azerbaijan
+87,Africa,East Africa,Tanzania
+88,Africa,East Africa,Zambia
+89,Pacific Asia,West Asia,Yemen
+90,Africa,East Africa,Madagascar
+91,Pacific Asia,Central Asia,Kazakhstan
+92,Africa,West Africa,Mauritania
+93,Africa,West Africa,Niger
+94,Africa,East Africa,Kenya
+95,Africa,North Africa,Libya
+96,Africa,West Africa,Liberia
+97,Europe,Northern Europe,Lithuania
+98,Africa,West Africa,Cote d�Ivoire
+99,Africa,West Africa,Ghana
+100,Europe,Eastern Europe,Moldova
+101,Africa,West Africa,Gambia
+102,Africa,East Africa,Mozambique
+103,Europe,Eastern Europe,Czech Republic (Czechia)
+104,Africa,West Africa,Senegal
+105,Africa,West Africa,Mali
+106,Europe,Eastern Europe,Hungary
+107,Africa,East Africa,Somalia
+108,Pacific Asia,West Asia,Georgia
+109,Africa,Southern Africa,Namibia
+110,Africa,Central Africa,Republic of Congo
+111,Europe,Southern Europe,Croatia
+112,Africa,Central Africa,Angola
+113,Europe,Eastern Europe,Bulgaria
+114,Pacific Asia,Central Asia,Uzbekistan
+115,Africa,East Africa,Zimbabwe
+116,Pacific Asia,West Asia,Qatar
+117,Pacific Asia,West Asia,Oman
+118,Pacific Asia,West Asia,UAE
+119,Europe,Eastern Europe,Belarus
+120,Africa,Central Africa,Gabon
+121,Africa,West Africa,Ben�n
+122,Pacific Asia,West Asia,Syria
+123,Pacific Asia,West Asia,Jordania
+124,Europe,Southern Europe,Bosnia and Herzegovina
+125,Pacific Asia,Eastern Asia,Mongolia
+126,Africa,West Africa,Guinea-Bissau
+127,Africa,West Africa,Guinea
+128,Europe,Southern Europe,Albania
+129,Europe,Southern Europe,Macedonia
+130,Africa,West Africa,Sierra Leona
+131,Pacific Asia,West Asia,Liban
+132,Europe,Southern Europe,Montenegro
+133,Africa,East Africa,Uganda
+134,Europe,Northern Europe,Estonia
+135,Europe,Eastern Europe,Slovakia
+136,Africa,Southern Africa,Lesotho
+137,Pacific Asia,Central Asia,Kyrgyzstan
+138,Africa,East Africa,Rwanda
+139,LATAM,Caribbean,Guadalupe
+140,LATAM,South America,French Guiana
+141,LATAM,Central America,Belize
+142,Pacific Asia,South Asia,Nepal
