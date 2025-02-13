@@ -48,17 +48,17 @@ The project is conducted using the data source created and copyrighted by ***Mav
 ---
 Questions:
 **Fulfillment Efficiency**
-  * What is the average time it takes to fulfill an order (Order Fulfillment Cycle Time)?
-  * What percentage of orders are shipped on time (On-Time Shipping Percentage)?
+1. What is the average time it takes to fulfill an order (Order Fulfillment Cycle Time)?
+2. What percentage of orders are shipped on time (On-Time Shipping Percentage)?
 **Sales**
-  * Which product depts, order ranges generate the most revenue and profit?
-  * What is the overall sales growth rate and profit margin trend over time? Are there seasonal patterns?
-  * How do discounts impact sales volume and profitability?
-  * What is the relationship between supply chain costs and sales revenue (Inventory-to-Sales Ratio)?
+1. Which product depts, order ranges generate the most revenue and profit?
+2. What is the overall sales growth rate and profit margin trend over time? Are there seasonal patterns?
+3. How do discounts impact sales volume and profitability?
+4. What is the relationship between supply chain costs and sales revenue (Inventory-to-Sales Ratio)?
 **Inventory Optimization**
-  * What is the total order quantity? total stock in inventory?
-  * Which Top 10 product names account for the most and the least  order quantity, respectively?
-  * Which Top 10 products account for the most inventory cost?
+1. What is the total order quantity? total stock in inventory?
+2. Which Top 10 product names account for the most and the least  order quantity, respectively?
+3. Which Top 10 products account for the most inventory cost?
 
 Finding Summary:
 1. The total order quantity, and warehouse inventory of 2017 is 24% and 20% smaller than the average of 2015 and 2016. The majority of orders contain 2-3 order items, contributing to a profit margin of over 0.8. However, there are no order of 5 following products in 3-year period:
@@ -72,11 +72,12 @@ Finding Summary:
 4. Amongst the 4 shipment modes, First class, traditionally the prioritized mode to have goods delivered within 1 business day, has the smallest on-time shipment percentage, at around 2%, followed with the second class with only 37%. In overall, the average on-time shipment percentage of 4 shipment modes from 2015 - 2017 is only 52%, pretty low compared to normal level at other logistics companies.
 
 ### SCQ and Diagnostic Based Tree
-|**Situation**|Situation	The company annually performs well from Jan - June, where the most profits and sales come from the logistics of outdoors product categories (fishing, camping & hiking, and cleats) with the order quantity of 2-3 items and large discount rates.|
-|**Complication**|The company sees a deep decline in order sales growth rate and profit margin during the Aug - Dec Period in 2017, with unsold products accounting for the majority of inventory cost, and high delayed shipment rates among the prioritized first-class and high-quantity second-class shipping modes.|
-|**Question**|1) What are drivers behind Just-In-Time deep decline of sales from Aug to Dec 2017? 
-2) How can Just-In-Time recover its sales volume to 200,000 USD over the next 1 year?|
-
+---
+| SCQ Framework  | Content |
+| ------------- | ------------- |
+| Situation  | The company annually performs well from Jan - June, where the most profits and sales come from the logistics of outdoors product categories (fishing, camping & hiking, and cleats) with the order quantity of 2-3 items and large discount rates.  |
+| Complication  | The company sees a deep decline in order sales growth rate and profit margin during the Aug - Dec Period in 2017, with unsold products accounting for the majority of inventory cost, and high delayed shipment rates among the prioritized first-class and high-quantity second-class shipping modes. |
+| Question  | What are drivers behind Just-In-Time deep decline of sales from Aug to Dec 2017? How can Just-In-Time recover its sales volume to 200,000 USD over the next 1 year? |
 
 
 
