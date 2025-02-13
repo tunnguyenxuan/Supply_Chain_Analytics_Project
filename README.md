@@ -145,8 +145,10 @@ Comment: There are 4 products that are unsellable. More importantly, 2 of them a
 
 ### Recommendations
 ---
-
-
+1) To reduce storage cost, the company should increase discount rates for 2-3 order item purchases which target 4 obsolete-inventory products, focusing on Bowflex SelectTech 1090 Dumbbells, and Bushnell Pro X7 Jolt Slope Rangefinder. In the long term, company must keep track of stock turn to define slow-moving or obsolete inventory to prevent accummulation of storage cost through strategic promotion.		
+2) The company should validate all product suppliers prospect to identify potential long-term partners versus suppliers who do not provide stock on time. The company might consider terminating contracts with providers with short-fall supplies, if possible, and targeting new reputative suppliers that provide historically profitable products 		
+3) Customer satisfaction should be improved to retain customer loyalty and generate new order by reducing late shipments for first-class and second-class mode, in which 60% of budget should be utilized to improve shipment service for second class.		
+4) The company should depriorize testing demand by increasing stock for low-ordered products since they are not customers' product preferences, helping reduce a portion of storage cost.		
 
 
 
