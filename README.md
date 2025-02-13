@@ -48,17 +48,17 @@ The project is conducted using the data source created and copyrighted by ***Mav
 ---
 Questions:
 **Fulfillment Efficiency**
-* What is the average time it takes to fulfill an order (Order Fulfillment Cycle Time)?
-* What percentage of orders are shipped on time (On-Time Shipping Percentage)?
+  * What is the average time it takes to fulfill an order (Order Fulfillment Cycle Time)?
+  * What percentage of orders are shipped on time (On-Time Shipping Percentage)?
 **Sales**
-* Which product depts, order ranges generate the most revenue and profit?
-* What is the overall sales growth rate and profit margin trend over time? Are there seasonal patterns?
-* How do discounts impact sales volume and profitability?
-* What is the relationship between supply chain costs and sales revenue (Inventory-to-Sales Ratio)?
+  * Which product depts, order ranges generate the most revenue and profit?
+  * What is the overall sales growth rate and profit margin trend over time? Are there seasonal patterns?
+  * How do discounts impact sales volume and profitability?
+  * What is the relationship between supply chain costs and sales revenue (Inventory-to-Sales Ratio)?
 **Inventory Optimization**
-* What is the total order quantity? total stock in inventory?
-* Which Top 10 product names account for the most and the least  order quantity, respectively?
-* Which Top 10 products account for the most inventory cost?
+  * What is the total order quantity? total stock in inventory?
+  * Which Top 10 product names account for the most and the least  order quantity, respectively?
+  * Which Top 10 products account for the most inventory cost?
 
 Finding Summary:
 1. The total order quantity, and warehouse inventory of 2017 is 24% and 20% smaller than the average of 2015 and 2016. The majority of orders contain 2-3 order items, contributing to a profit margin of over 0.8. However, there are no order of 5 following products in 3-year period:
