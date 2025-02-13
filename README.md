@@ -6,9 +6,6 @@
 ---
 As the main data analyst for Just In Time, I will analyze supply chain inefficiencies through univariate and bivariate EDA of over 30,000 order records of the company during 2015 - 2017 period , define the key problem through SCQ Framework, identify root causes using diagnostic based tree and hypothesis testing techniques using Python libraries (Pandas, Seaborn, Matplotlib, etc) to  and propose structural business improvements.
 
-![image](https://github.com/user-attachments/assets/35ec568e-34ea-4e9b-a063-13f13a60bc9d)
-![image](https://github.com/user-attachments/assets/7e70ce3f-093e-4467-96c0-8af271f26241)
-
 ### Data Sources
 ---
 The project is conducted using the data source created and copyrighted by ***Maven Analytics***.
