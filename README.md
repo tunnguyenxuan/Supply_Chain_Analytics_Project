@@ -72,8 +72,8 @@ Finding Summary:
 * SOLE E25 Elliptical
 * Bowflex SelectTech 1090 Dumbbells
 * Dell Laptop
-2. Top 3 sales and profitable categories, namely fishing, camping & hiking, and cleate, demonstrating that the company sales stream mainly comes from logistics of outdoors product lines. In constrast, CDs, Men's clothing, Toys contribute to sales the least. Regarding customer regions, sales are focused on Central America, Western Europe, and South America, while Central Asia, and East Africa generate the lowest sales.
-3. The company generate the profit out of sales in dry season (Feb - June), and bottom down in Oct and Nov (rainy season). We also see that products with high discount rates are deemed to generate more profit margin.
+2. Top 3 sales and profitable categories, namely fishing, camping & hiking, and cleate, demonstrate that the company sales stream mainly comes from logistics of outdoors product lines. In constrast, CDs, Men's clothing, Toys contribute to sales the least. Regarding customer regions, sales are focused on Central America, Western Europe, and South America, while Central Asia, and East Africa generate the lowest sales.
+3. The company generate the largest profit out of sales in dry season (Feb - June), and bottom down in Oct and Nov (rainy season). We also see that products with high discount rates are deemed to generate more profit margin.
 4. Amongst the 4 shipment modes, First class, traditionally the prioritized mode to have goods delivered within 1 business day, has the smallest on-time shipment percentage, at around 2%, followed with the second class with only 37%. In overall, the average on-time shipment percentage of 4 shipment modes from 2015 - 2017 is only 52%, pretty low compared to normal level at other logistics companies.
 
 ### Problem and Root Cause Identification
