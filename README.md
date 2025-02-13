@@ -122,7 +122,7 @@ Comment:
 ![image](https://github.com/user-attachments/assets/01a743f7-9857-4785-a0ec-132c09329a8b)
 Coment:
 * There is a positive correlation between warehouse inventory and oder quantity. Also, both exert the same trends from 2015 - 2017.
-* We can conclude that our loss of orders is consituted by the insuficiency of product supplies.
+* We can conclude that our loss of orders is consituted by the insufficiency of product supplies.
 => H3 is **supported**
 
 **H4: Increasing discount rate will generate less profit**
