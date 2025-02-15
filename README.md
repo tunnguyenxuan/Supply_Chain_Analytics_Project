@@ -86,7 +86,7 @@ Finding Summary:
 | Question  | What are drivers behind Just-In-Time deep decline of sales from Aug to Dec 2017? How can Just-In-Time recover its sales volume to 200,000 USD over the next 1 year? |
 
 #### Diagnostic Based Tree
-![image](https://github.com/user-attachments/assets/bc2d8e60-823d-4de6-88e3-40aee8471382)
+![image](https://github.com/user-attachments/assets/16b4f4b9-1891-4526-adbf-72b0a6fb28c7)
 
 Hypotheses:
 1) Customers change their product preferences while the company does not respond quickly to demand conversion, leading to less orders being made.	
