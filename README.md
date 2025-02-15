@@ -90,10 +90,10 @@ Finding Summary:
 
 Hypotheses:
 1) Customers change their product preferences while the company does not respond quickly to demand conversion, leading to less orders being made.	
-2) The more delayed the shipments in regard of delivery modes, the the lesser the number of orders.
+2) The more delayed the shipments in regard of delivery modes, the lesser the number of orders.
 3) Suppliers do not provide sufficient products for the company to fulfill the orders.
 4) Increasing discount rate decreases the business profit.  	
-5) There are products with high-quantity inventory or/and high inventor cost per unt but are not sellable.
+5) There are products with high-quantity inventory or/and high inventor cost per unit but are not sellable.
 
 ### Hypothesis Testing
 ---
