@@ -55,11 +55,13 @@ Questions:
 **Fulfillment Efficiency**
 1. What is the average time it takes to fulfill an order (Order Fulfillment Cycle Time)?
 2. What percentage of orders are shipped on time (On-Time Shipping Percentage)?
+
 **Sales**
 1. Which product depts, order ranges generate the most revenue and profit?
 2. What is the overall sales growth rate and profit margin trend over time? Are there seasonal patterns?
 3. How do discounts impact sales volume and profitability?
 4. What is the relationship between supply chain costs and sales revenue (Inventory-to-Sales Ratio)?
+   
 **Inventory Optimization**
 1. What is the total order quantity? total stock in inventory?
 2. Which Top 10 product names account for the most and the least  order quantity, respectively?
